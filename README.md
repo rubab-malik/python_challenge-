@@ -6,7 +6,7 @@
 
 ## Overview of Budget_Data
 
-In this challenge, I am are tasked with creating a Python script for analyzing the financial records. I will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. The following tasks are given to complete the challenge
+In this challenge, I am tasked with creating a Python script for analyzing the financial records. I will give a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. The following tasks are given to complete the challenge
 
 1. The total number of months included in the dataset
 2. The net total amount of "Profit/Losses" over the entire period
@@ -29,7 +29,7 @@ The Financial Analysis show that:
 - The greatest increase in profits happend in  Aug-16 with total value of ($1862002).
 - The greatest decrease in profits happend in  Feb-14 with total loss amount was ($-1825558).
 
-#Pypoll
+# Pypoll
 
 ## Overview of Election Audit
 
